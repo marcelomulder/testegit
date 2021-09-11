@@ -1,2 +1,8 @@
+
 alguma coisa para colocar online
+<<<<<<< HEAD
 e um pouco mais - add 03/09/2021
+=======
+
+mais alguma coisa pra colocar online.
+>>>>>>> staging
