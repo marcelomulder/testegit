@@ -1,7 +1,9 @@
 
 alguma coisa para colocar online
 <<<<<<< HEAD
-e um pouco mais - add 03/09/2021
+ um pouco mais - add 03/09/2021
+
+Fazendo um pouco mais - added at 14/09/2021
 =======
 
 mais alguma coisa pra colocar online.
